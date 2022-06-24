@@ -1,0 +1,30 @@
+{
+   "form":[
+      {
+         "box":[
+            641,
+            1607,
+            742,
+            1641
+         ],
+         "text":"제303호",
+         "label":"호",
+         "words":[
+            {
+               "box":[
+                  641,
+                  1607,
+                  742,
+                  1641
+               ],
+               "text":"제303호"
+            }
+         ],
+         "linking":[
+            
+         ],
+         "id":19,
+         "image_path":"C:/Users/brigs/Documents/custom_2/images_whole/01-1703-3-1006_3.png"
+      }
+   ]
+}

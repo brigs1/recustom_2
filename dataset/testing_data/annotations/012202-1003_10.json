@@ -1,0 +1,30 @@
+{
+   "form":[
+      {
+         "box":[
+            681,
+            1440,
+            785,
+            1464
+         ],
+         "text":"제1102호",
+         "label":"호",
+         "words":[
+            {
+               "box":[
+                  681,
+                  1440,
+                  785,
+                  1464
+               ],
+               "text":"제1102호"
+            }
+         ],
+         "linking":[
+            
+         ],
+         "id":40,
+         "image_path":"C:/Users/brigs/Documents/custom_2/images_whole/012202-1003_10.png"
+      }
+   ]
+}

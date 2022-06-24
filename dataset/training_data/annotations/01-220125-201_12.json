@@ -1,0 +1,30 @@
+{
+   "form":[
+      {
+         "box":[
+            1287,
+            1340,
+            1429,
+            1363
+         ],
+         "text":"354,000,000",
+         "label":"감정평가액",
+         "words":[
+            {
+               "box":[
+                  1287,
+                  1340,
+                  1429,
+                  1363
+               ],
+               "text":"354,000,000"
+            }
+         ],
+         "linking":[
+            
+         ],
+         "id":20,
+         "image_path":"C:/Users/brigs/Documents/custom_2/images_whole/01-220125-201_12.png"
+      }
+   ]
+}

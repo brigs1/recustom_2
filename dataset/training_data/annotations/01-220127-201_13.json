@@ -1,0 +1,30 @@
+{
+   "form":[
+      {
+         "box":[
+            911,
+            1322,
+            978,
+            1342
+         ],
+         "text":"214.8",
+         "label":"토지면적_해당필지",
+         "words":[
+            {
+               "box":[
+                  911,
+                  1322,
+                  978,
+                  1342
+               ],
+               "text":"214.8"
+            }
+         ],
+         "linking":[
+            
+         ],
+         "id":23,
+         "image_path":"C:/Users/brigs/Documents/custom_2/images_whole/01-220127-201_13.png"
+      }
+   ]
+}

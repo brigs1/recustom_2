@@ -1,0 +1,30 @@
+{
+   "form":[
+      {
+         "box":[
+            1123,
+            1507,
+            1190,
+            1534
+         ],
+         "text":"50.31",
+         "label":"사정_전유면적",
+         "words":[
+            {
+               "box":[
+                  1123,
+                  1507,
+                  1190,
+                  1534
+               ],
+               "text":"50.31"
+            }
+         ],
+         "linking":[
+            
+         ],
+         "id":33,
+         "image_path":"C:/Users/brigs/Documents/custom_2/images_whole/012201-1009_10.png"
+      }
+   ]
+}
